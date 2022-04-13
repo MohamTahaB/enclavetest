@@ -64,7 +64,6 @@ int main(int argc, const char* argv[])
     }
 
     printf("Let's start the game : \n") ;
-    while
 
     // Call into the enclave
     result = enclave_helloworld(enclave);
