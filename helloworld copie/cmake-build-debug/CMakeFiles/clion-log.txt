@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja "/Users/mohamedtahabayoumi/Desktop/helloworld copie"
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja "/Users/mohamedtahabayoumi/Documents/GitHub/enclavetest/helloworld copie"
 -- The C compiler identification is AppleClang 13.1.6.13160021
 -- The CXX compiler identification is AppleClang 13.1.6.13160021
 -- Detecting C compiler ABI info
@@ -25,5 +25,5 @@ CMake Error at CMakeLists.txt:29 (find_package):
 
 
 -- Configuring incomplete, errors occurred!
-See also "/Users/mohamedtahabayoumi/Desktop/helloworld copie/cmake-build-debug/CMakeFiles/CMakeOutput.log".
-See also "/Users/mohamedtahabayoumi/Desktop/helloworld copie/cmake-build-debug/CMakeFiles/CMakeError.log".
+See also "/Users/mohamedtahabayoumi/Documents/GitHub/enclavetest/helloworld copie/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/mohamedtahabayoumi/Documents/GitHub/enclavetest/helloworld copie/cmake-build-debug/CMakeFiles/CMakeError.log".
